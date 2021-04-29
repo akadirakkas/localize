@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  localize
+
+  Created by AbdulKadir Akkaş on 29.04.2021.
+  
+*/
+
+"meyve1" = "Apple" ;
+"meyve2" = "Pear" ;
+"meyve3" = "Strawberry" ;
+"meyve4" = "Grape" ;
